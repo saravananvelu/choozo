@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Choozo CustomerImport
+ *
+ * @Package Choozo
+ * @Module  CustomerImport
+ * @Version 0.0.1
+ * @Author  Ramki <ramki.r@brtechnologies.net>
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Choozo_CustomerImport" setup_version="2.1.1"></module>
+</config>
