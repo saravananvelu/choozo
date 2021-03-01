@@ -18,7 +18,6 @@ use Magento\Eav\Model\Config;
 use Magento\Customer\Setup\CustomerSetupFactory;
 use Magento\Framework\Setup\ModuleDataSetupInterface;
 use Magento\Framework\Setup\Patch\DataPatchInterface;
-
 /**
  *  Patch script class for creating choozo customer id attribute
  *
